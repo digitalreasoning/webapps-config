@@ -1,0 +1,11 @@
+{
+    "env": {
+        "browser": true
+    },
+    "globals": {
+        "SAF": false
+    },
+    "rules": {
+        // Add DR specific rules here
+    }
+}
